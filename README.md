@@ -11,7 +11,7 @@
 
 <p align="center">
   Building real-world AI solutions in medical imaging, object detection, segmentation,<br>
-  fraud detection, and advanced RAG systems using modern tools and frameworks.
+   and advanced RAG systems using modern tools and frameworks.
 </p>
 
 <p align="center">
