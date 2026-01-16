@@ -2,7 +2,6 @@
   <img src="https://img.shields.io/badge/AI%20ENGINEER-Computer%20Vision%20%7C%20Medical%20AI%20%7C%20RAG-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DEEP%20LEARNING-TensorFlow%20%7C%20PyTorch%20%7C%20YOLO%20%7C%20U--Net-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LLMs-LangChain%20%7C%20Gemini%20%7C%20Groq-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FRAUD%20DETECTION-XGBoost%20%7C%20SMOTE-critical?style=for-the-badge"/>
 </p>
 
 <h1 align="center">Hi, I'm Abdelrahman Elderaa 👋</h1>
@@ -11,7 +10,7 @@
 
 <p align="center">
   Building real-world AI solutions in medical imaging, object detection, segmentation,<br>
-   and advanced RAG systems using modern tools and frameworks.
+  and advanced RAG systems using modern tools and frameworks.
 </p>
 
 <p align="center">
@@ -26,14 +25,14 @@
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
-|-------|--------|------|
+| :--- | :--- | :--- |
 | 🧠 [Alzheimer's Detection](https://github.com/Abdelrahman-Eldera3/Alzheimers-Detection) | MRI classification using VGG19 transfer learning (~98% accuracy) | TensorFlow • VGG19 |
 | 🩺 [Medical Image Segmentation](https://github.com/Abdelrahman-Eldera3/Medical-Image-Segmentation-U-Net) | Binary segmentation with U-Net + VGG19 encoder | TensorFlow • OpenCV |
+| 🤖 [News Research Tool (RAG)](https://github.com/Abdelrahman-Eldera3/News-Research-Tool-RAG) | Dynamic web RAG with Groq Llama-3.3 & Cohere | LangChain • Streamlit |
 | 😷 [Real-Time Face Mask Detection](https://github.com/Abdelrahman-Eldera3/Real-Time-Face-Mask-Detection) | YOLOv8-based real-time detection | Ultralytics • OpenCV |
+| 💬 [Codebasics Q&A RAG](https://github.com/Abdelrahman-Eldera3/RAG-QA-System-LangChain-Gemini) | FAQ chatbot with Gemini & FAISS | LangChain • Streamlit |
 | 🥔 [Potato Disease Detection](https://github.com/Abdelrahman-Eldera3/Potato-Disease-Detection) | Leaf disease classification (Early/Late Blight) | CNN • TensorFlow |
 | 🏠 [Housing Price Prediction](https://github.com/Abdelrahman-Eldera3/Housing-Price-Prediction) | Regression modeling with feature analysis | Scikit-learn • Pandas |
-| 🤖 [News Research Tool (RAG)](https://github.com/Abdelrahman-Eldera3/News-Research-Tool-RAG) | Dynamic web RAG with Groq Llama-3.3 & Cohere | LangChain • Streamlit |
-| 💬 [Codebasics Q&A RAG](https://github.com/Abdelrahman-Eldera3/RAG-QA-System-LangChain-Gemini) | FAQ chatbot with Gemini & FAISS | LangChain • Streamlit |
 
 ## 🛠️ Tech Stack
 
