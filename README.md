@@ -1,16 +1,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20ENGINEER-Computer%20Vision%20%7C%20Medical%20AI%20%7C%20RAG-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DEEP%20LEARNING-TensorFlow%20%7C%20PyTorch%20%7C%20U--Net-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-LangChain%20%7C%20Gemini%20%7C%20Groq-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-TensorFlow%20%7C%20U--Net%20%7C%20YOLOv8-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GEN%20AI-LangChain%20%7C%20Gemini%20%7C%20Groq-brightgreen?style=for-the-badge"/>
 </p>
 
 <h1 align="center">Hi, I'm Abdelrahman Elderaa 👋</h1>
 
-<h3 align="center">AI & Computer Vision Engineer | RAG Specialist</h3>
+<h3 align="center">AI Engineer | Computer Vision & RAG Specialist</h3>
 
 <p align="center">
-  Building high-impact AI solutions ranging from <b>Medical Imaging</b> (Segmentation/Classification) <br> 
-  to advanced <b>Generative AI</b> systems using RAG architectures.
+  Passionate about building intelligent systems that "see" and "reason." <br>
+  Specializing in <b>Medical Image Segmentation</b>, <b>Object Detection</b>, and <b>Advanced RAG Pipelines</b>.
 </p>
 
 <p align="center">
@@ -22,42 +22,24 @@
   </a>
 </p>
 
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🧠 [Alzheimer's Detection](https://github.com/Abdelrahman-Eldera3/Alzheimers-Detection) | MRI classification using VGG19 Transfer Learning. | TensorFlow • VGG19 |
-| 🩺 [Binary Segmentation](https://github.com/Abdelrahman-Eldera3/Medical-Image-Segmentation-U-Net) | Medical image segmentation using U-Net + VGG19 backbone. | TensorFlow • Keras |
-| 📰 [News Research Tool](https://github.com/Abdelrahman-Eldera3/News-Research-Tool-RAG) | Multilingual RAG system for news analysis via multiple URLs. | Groq • Cohere • LangChain |
-| 💬 [EdTech Q&A RAG](https://github.com/Abdelrahman-Eldera3/RAG-QA-System-LangChain-Gemini) | Fact-based chatbot using Gemini Pro and FAISS Vector DB. | LangChain • Gemini |
-| 😷 [Face Mask Detection](https://github.com/Abdelrahman-Eldera3/Real-Time-Face-Mask-Detection) | Real-time object detection for public safety. | YOLOv8 • OpenCV |
-| 🥔 [Potato Disease Detection](https://github.com/Abdelrahman-Eldera3/Potato-Disease-Detection) | Plant health classification using custom CNNs. | CNN • TensorFlow |
-| 🏠 [House Price Prediction](https://github.com/Abdelrahman-Eldera3/Housing-Price-Prediction) | End-to-end regression analysis and house price forecasting. | Scikit-learn • Seaborn |
+| 🧠 [Alzheimer's Detection](https://github.com/Abdelrahman-Eldera3/Alzheimers-Detection) | MRI classification using VGG19 transfer learning (~98% accuracy) | TensorFlow • VGG19 |
+| 🩺 [Binary Segmentation](https://github.com/Abdelrahman-Eldera3/Medical-Image-Segmentation-U-Net) | High-precision medical segmentation with U-Net & VGG19 backbone | TensorFlow • OpenCV |
+| 📰 [News Research Tool](https://github.com/Abdelrahman-Eldera3/News-Research-Tool-RAG) | Multi-URL Research tool using Llama-3.3, Cohere & RAG | Groq • LangChain • FAISS |
+| 💬 [EdTech Q&A RAG](https://github.com/Abdelrahman-Eldera3/RAG-QA-System-LangChain-Gemini) | Fact-based AI chatbot with Gemini-2.5-Flash & Vector DB | LangChain • Gemini |
+| 😷 [Real-Time Face Mask Detection](https://github.com/Abdelrahman-Eldera3/Real-Time-Face-Mask-Detection) | Real-time security monitoring using YOLOv8 | Ultralytics • Python |
+| 🥔 [Potato Disease Detection](https://github.com/Abdelrahman-Eldera3/Potato-Disease-Detection) | CNN-based plant leaf disease identification & classification | Keras • TensorFlow |
+| 🏠 [Housing Price Prediction](https://github.com/Abdelrahman-Eldera3/Housing-Price-Prediction) | Regression modeling for real estate market analysis | Scikit-learn • Pandas |
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Technical Toolkit
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,streamlit,langchain&perline=8" />
+</p>
 
-### 🖼️ Computer Vision & Deep Learning
-* **Architectures:** U-Net, YOLOv8, CNN, VGG16/19, Siamese Networks.
-* **Frameworks:** TensorFlow, Keras, PyTorch.
-* **Tools:** OpenCV, Image Augmentation, Semantic Segmentation.
-
-### 🤖 Generative AI & NLP
-* **LLM Frameworks:** LangChain, RAG (Retrieval-Augmented Generation).
-* **Models:** Google Gemini, Llama-3 (Groq), Cohere.
-* **Vector DBs:** FAISS, ChromaDB.
-
-### 📊 Data Science & Tools
-* **Analysis:** Pandas, NumPy, Scikit-learn, XGBoost.
-* **Visualization:** Matplotlib, Seaborn, Power BI.
-* **Deployment:** Streamlit, Git, GitHub.
-
----
-
-## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Eldera3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   &nbsp;
@@ -65,5 +47,5 @@
 </p>
 
 <p align="center">
-  <i>"Passionate about turning data into intelligent, real-world actions."</i>
+  <i>Always learning • Building • Shipping</i>
 </p>
