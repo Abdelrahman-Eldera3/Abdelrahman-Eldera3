@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/DATA%20SCIENTIST-Machine%20Learning%20%7C%20RAG%20%7C%20Data%20Analysis-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ML%20ENGINEER-Scikit--learn%20%7C%20TensorFlow%20%7C%20XGBoost-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GEN%20AI-LangChain%20%7C%20Gemini%20%7C%20Vector%20DB-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-Analysis%20%7C%20Statistics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DEEP%20LEARNING-Computer%20Vision%20%7C%20CNN-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-RAG%20%7C%20LangChain-brightgreen?style=for-the-badge"/>
 </p>
 
 <h1 align="center">Hi, I'm Abdelrahman Elderaa 👋</h1>
 
-<h3 align="center">Data Scientist | Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist & Machine Learning Engineer</h3>
 
 <p align="center">
-  Transforming raw data into actionable insights and intelligent systems. <br>
-  Specializing in <b>Predictive Modeling</b>, <b>Statistical Analysis</b>, and <b>Generative AI (RAG)</b>.
+  Bridging the gap between <b>Classical Machine Learning</b> and <b>Generative AI</b>. <br>
+  Specializing in predictive modeling, computer vision pipelines, and intelligent RAG systems.
 </p>
 
 <p align="center">
@@ -24,40 +24,43 @@
 
 ---
 
+## 🛠️ What I Build
+
+### 🤖 LLM & RAG Systems (Generative AI)
+I design and implement **Retrieval-Augmented Generation (RAG)** pipelines that allow LLMs to interact with private data securely and accurately.
+* **Core Skills:** Prompt Engineering, Document Loading (PDF/CSV/URLs), Semantic Search, and Streamlit Deployment.
+* **Tech:** LangChain, Google Gemini, Groq (Llama-3), FAISS Vector DB, Cohere Embeddings.
+
+### 🖼️ Computer Vision & Deep Learning
+I build advanced Vision systems for medical diagnostics and real-time monitoring.
+* **Core Skills:** Image Segmentation (U-Net), Object Detection (YOLOv8), Transfer Learning (VGG16/19), and Data Augmentation.
+* **Tech:** TensorFlow, Keras, PyTorch, OpenCV, Ultralytics.
+
+### 📊 Data Science & Machine Learning
+I develop end-to-end analytical solutions that turn raw data into predictive power.
+* **Core Skills:** Exploratory Data Analysis (EDA), Feature Engineering, Statistical Modeling, and Regression/Classification.
+* **Tech:** Scikit-learn, Pandas, NumPy, XGBoost, Matplotlib, Seaborn.
+
+---
+
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Category | Tech Stack |
 | :--- | :--- | :--- |
-| 🏠 [Housing Price Prediction](https://github.com/Abdelrahman-Eldera3/Housing-Price-Prediction) | End-to-end regression analysis, feature engineering, and price forecasting. | Scikit-learn • Pandas |
-| 📰 [News Research Tool](https://github.com/Abdelrahman-Eldera3/News-Research-Tool-RAG) | Intelligent research tool using RAG architecture for automated news analysis. | LangChain • Groq • FAISS |
-| 📊 [Customer Segmentation](https://github.com/Abdelrahman-Eldera3/Customer-Segmentation) | Uncovering patterns using K-Means clustering and PCA for targeted marketing. | Scikit-learn • Matplotlib |
-| 💬 [EdTech Q&A RAG](https://github.com/Abdelrahman-Eldera3/RAG-QA-System-LangChain-Gemini) | AI chatbot grounded in custom datasets using Gemini Pro and Vector stores. | LangChain • Gemini |
-| 🧠 [Alzheimer's Classification](https://github.com/Abdelrahman-Eldera3/Alzheimers-Detection) | Advanced image classification using Deep Learning and Transfer Learning. | TensorFlow • VGG19 |
-| 🩺 [Image Segmentation](https://github.com/Abdelrahman-Eldera3/Medical-Image-Segmentation-U-Net) | Computer vision pipeline for precise binary object segmentation. | U-Net • OpenCV |
-| 😷 [Object Detection (YOLOv8)](https://github.com/Abdelrahman-Eldera3/Real-Time-Face-Mask-Detection) | Real-time detection and monitoring system using modern DL architectures. | Ultralytics • Python |
+| 🧠 [Alzheimer's Detection](https://github.com/Abdelrahman-Eldera3/Alzheimers-Detection) | Deep Learning | TensorFlow • VGG19 |
+| 🩺 [Image Segmentation](https://github.com/Abdelrahman-Eldera3/Medical-Image-Segmentation-U-Net) | Computer Vision | U-Net • Keras |
+| 📰 [News Research Tool](https://github.com/Abdelrahman-Eldera3/News-Research-Tool-RAG) | GenAI / RAG | Groq • LangChain |
+| 💬 [EdTech Q&A RAG](https://github.com/Abdelrahman-Eldera3/RAG-QA-System-LangChain-Gemini) | GenAI / RAG | Gemini • FAISS |
+| 🏠 [Housing Price Prediction](https://github.com/Abdelrahman-Eldera3/Housing-Price-Prediction) | Data Science | Scikit-learn • Pandas |
+| 😷 [Object Detection](https://github.com/Abdelrahman-Eldera3/Real-Time-Face-Mask-Detection) | Computer Vision | YOLOv8 • Python |
 
 ---
 
-## 🛠️ Skills & Toolkit
-
-### 📊 Data Science & Analytics
-* **Statistical Modeling:** Regression, Classification, Clustering (K-Means).
-* **Data Manipulation:** Pandas, NumPy, SQL.
-* **Visualization:** Seaborn, Matplotlib, Power BI.
-* **Feature Engineering:** PCA, Dimensionality Reduction, Data Scaling.
-
-### 🤖 Machine Learning & AI
-* **Frameworks:** Scikit-learn, XGBoost, TensorFlow, Keras.
-* **Generative AI:** RAG Pipelines, LangChain, Vector Databases (FAISS).
-* **Computer Vision:** CNNs, YOLOv8, Image Preprocessing.
-
----
-
-## 📈 My GitHub Activity
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Eldera3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <i>"I believe in the power of data to solve complex problems."</i>
+  <i>"Turning complex data into intelligent, scalable solutions."</i>
 </p>
