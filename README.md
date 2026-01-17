@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20ENGINEER-Computer%20Vision%20%7C%20Medical%20AI%20%7C%20RAG-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DEEP%20LEARNING-TensorFlow%20%7C%20U--Net%20%7C%20YOLOv8-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GEN%20AI-LangChain%20%7C%20Gemini%20%7C%20Groq-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DATA%20SCIENTIST-Machine%20Learning%20%7C%20RAG%20%7C%20Data%20Analysis-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML%20ENGINEER-Scikit--learn%20%7C%20TensorFlow%20%7C%20XGBoost-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GEN%20AI-LangChain%20%7C%20Gemini%20%7C%20Vector%20DB-brightgreen?style=for-the-badge"/>
 </p>
 
 <h1 align="center">Hi, I'm Abdelrahman Elderaa 👋</h1>
 
-<h3 align="center">AI Engineer | Computer Vision & RAG Specialist</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer</h3>
 
 <p align="center">
-  Passionate about building intelligent systems that "see" and "reason." <br>
-  Specializing in <b>Medical Image Segmentation</b>, <b>Object Detection</b>, and <b>Advanced RAG Pipelines</b>.
+  Transforming raw data into actionable insights and intelligent systems. <br>
+  Specializing in <b>Predictive Modeling</b>, <b>Statistical Analysis</b>, and <b>Generative AI (RAG)</b>.
 </p>
 
 <p align="center">
@@ -22,30 +22,42 @@
   </a>
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🧠 [Alzheimer's Detection](https://github.com/Abdelrahman-Eldera3/Alzheimers-Detection) | MRI classification using VGG19 transfer learning (~98% accuracy) | TensorFlow • VGG19 |
-| 🩺 [Binary Segmentation](https://github.com/Abdelrahman-Eldera3/Medical-Image-Segmentation-U-Net) | High-precision medical segmentation with U-Net & VGG19 backbone | TensorFlow • OpenCV |
-| 📰 [News Research Tool](https://github.com/Abdelrahman-Eldera3/News-Research-Tool-RAG) | Multi-URL Research tool using Llama-3.3, Cohere & RAG | Groq • LangChain • FAISS |
-| 💬 [EdTech Q&A RAG](https://github.com/Abdelrahman-Eldera3/RAG-QA-System-LangChain-Gemini) | Fact-based AI chatbot with Gemini-2.5-Flash & Vector DB | LangChain • Gemini |
-| 😷 [Real-Time Face Mask Detection](https://github.com/Abdelrahman-Eldera3/Real-Time-Face-Mask-Detection) | Real-time security monitoring using YOLOv8 | Ultralytics • Python |
-| 🥔 [Potato Disease Detection](https://github.com/Abdelrahman-Eldera3/Potato-Disease-Detection) | CNN-based plant leaf disease identification & classification | Keras • TensorFlow |
-| 🏠 [Housing Price Prediction](https://github.com/Abdelrahman-Eldera3/Housing-Price-Prediction) | Regression modeling for real estate market analysis | Scikit-learn • Pandas |
+| 🏠 [Housing Price Prediction](https://github.com/Abdelrahman-Eldera3/Housing-Price-Prediction) | End-to-end regression analysis, feature engineering, and price forecasting. | Scikit-learn • Pandas |
+| 📰 [News Research Tool](https://github.com/Abdelrahman-Eldera3/News-Research-Tool-RAG) | Intelligent research tool using RAG architecture for automated news analysis. | LangChain • Groq • FAISS |
+| 📊 [Customer Segmentation](https://github.com/Abdelrahman-Eldera3/Customer-Segmentation) | Uncovering patterns using K-Means clustering and PCA for targeted marketing. | Scikit-learn • Matplotlib |
+| 💬 [EdTech Q&A RAG](https://github.com/Abdelrahman-Eldera3/RAG-QA-System-LangChain-Gemini) | AI chatbot grounded in custom datasets using Gemini Pro and Vector stores. | LangChain • Gemini |
+| 🧠 [Alzheimer's Classification](https://github.com/Abdelrahman-Eldera3/Alzheimers-Detection) | Advanced image classification using Deep Learning and Transfer Learning. | TensorFlow • VGG19 |
+| 🩺 [Image Segmentation](https://github.com/Abdelrahman-Eldera3/Medical-Image-Segmentation-U-Net) | Computer vision pipeline for precise binary object segmentation. | U-Net • OpenCV |
+| 😷 [Object Detection (YOLOv8)](https://github.com/Abdelrahman-Eldera3/Real-Time-Face-Mask-Detection) | Real-time detection and monitoring system using modern DL architectures. | Ultralytics • Python |
 
-## 🛠️ Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,streamlit,langchain&perline=8" />
-</p>
+## 🛠️ Skills & Toolkit
 
+### 📊 Data Science & Analytics
+* **Statistical Modeling:** Regression, Classification, Clustering (K-Means).
+* **Data Manipulation:** Pandas, NumPy, SQL.
+* **Visualization:** Seaborn, Matplotlib, Power BI.
+* **Feature Engineering:** PCA, Dimensionality Reduction, Data Scaling.
+
+### 🤖 Machine Learning & AI
+* **Frameworks:** Scikit-learn, XGBoost, TensorFlow, Keras.
+* **Generative AI:** RAG Pipelines, LangChain, Vector Databases (FAISS).
+* **Computer Vision:** CNNs, YOLOv8, Image Preprocessing.
+
+---
+
+## 📈 My GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Eldera3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Eldera3&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <i>Always learning • Building • Shipping</i>
+  <i>"I believe in the power of data to solve complex problems."</i>
 </p>
