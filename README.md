@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman Eldera</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Elderaa</h1>
 <h3 align="center">AI & Computer Vision Engineer | Medical Imaging | LLMs & RAG Systems</h3>
 
 <p align="center">
